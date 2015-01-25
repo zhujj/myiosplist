@@ -24,6 +24,10 @@
 				<string>software</string>
 				<key>title</key>
 				<string>校信iphone版</string>
+				<key>display-image</key>
+				<string></string>
+				<key>full-size-image</key>
+				<string></string>
 			</dict>
 		</dict>
 	</array>
