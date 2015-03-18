@@ -17,17 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.heaven.xiaolexmpp.ios8</string>
+				<string>com.lezhixing.ltd.xiaolexmpp</string>
 				<key>bundle-version</key>
 				<string>2.3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>校信iphone版</string>
-				<key>display-image</key>
-				<string>http://ylwzx.lezhiyou.org/download/ylwzx/appicon.png</string>
-				<key>full-size-image</key>
-				<string></string>
+				<string>小乐通讯iphone版</string>
 			</dict>
 		</dict>
 	</array>
